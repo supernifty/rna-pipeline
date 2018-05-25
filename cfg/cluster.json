@@ -1,0 +1,27 @@
+{
+    "__default__": {
+        "account": "UOM0040",
+        "time": "00:15:00",
+        "n": 1,
+        "partition": "main",
+        "memory": 1024
+    },
+
+    "index_genome": {
+        "n": 4,
+        "memory": 49152,
+        "time": "08:00:00"
+    },
+
+    "star": {
+        "n": 4,
+        "memory": 49152,
+        "time": "24:00:00"
+    },
+
+    "sort_star": {
+        "n": 4,
+        "memory": 32768,
+        "time": "12:00:00"
+    }
+}

@@ -1,0 +1,9 @@
+
+genome: 'reference/genome.fa'
+gff: 'reference/Homo_sapiens.GRCh37.75.gtf'
+
+samples: 
+  S1: [ 'in/L001_R1.fastq.gz', 'in/L001_R2.fastq.gz', 
+        'in/L002_R1.fastq.gz', 'in/L002_R2.fastq.gz'
+      ]
+
